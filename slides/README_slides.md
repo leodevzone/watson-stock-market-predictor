@@ -11,13 +11,13 @@ jupyter:
     language: python
     name: python3
 ---
+<!-- 
++++ {"slideshow": {"slide_type": "slide"}} -->
 
-+++ {"slideshow": {"slide_type": "slide"}}
-
-# Tutorial slides
+<!-- # Tutorial slides
 
 - Slides are optional (e.g., you may not use them if your presentation is via live coding).
-- If the pre-recorded presentations will use slides, we request that you deposit the slides in this folder.
+- If the pre-recorded presentations will use slides, we request that you deposit the slides in this folder. -->
 
 +++ {"slideshow": {"slide_type": "slide"}}
 
