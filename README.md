@@ -1,3 +1,7 @@
+Sign up/Log in to your IBM Cloud Account - ibm.biz/StockMarketWatsonStudio
+Follow along for the hands-on - ibm.biz/StockMarketWatsonStudioLab 
+Slides - http://mridulbhandari.com/watson-stock-market-predictor/#/1
+Survey Link - https://www.surveymonkey.com/r/JHT3L8Y
 # Forecasting the Stock Market with Watson Studio
 
 In this code pattern, we will demonstrate on how subject matter experts and data scientists can leverage IBM Watson Studio to automate data mining and the training of time series forecasters using open-source machine learning libraries, or the built-in graphical tool integrated into Watson Studio. It applies ARIMA algorithms (Auto-regressive Integrated Moving Average) and other advanced techniques to construct mathematical models capable of predicting trends based on data from the past.
