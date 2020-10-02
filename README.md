@@ -1,5 +1,5 @@
-Sign up/Log in to your IBM Cloud Account - ibm.biz/StockMarketWatsonStudio <br />
-Follow along for the hands-on - ibm.biz/StockMarketWatsonStudioLab <br />
+Sign up/Log in to your IBM Cloud Account - http://ibm.biz/StockMarketWatsonStudio <br />
+Follow along for the hands-on - http://ibm.biz/StockMarketWatsonStudioLab <br />
 Slides - http://mridulbhandari.com/watson-stock-market-predictor/#/1 <br />
 Survey Link - https://www.surveymonkey.com/r/JHT3L8Y <br />
 
