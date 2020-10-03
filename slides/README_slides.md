@@ -19,7 +19,7 @@ jupyter:
 - Slides are optional (e.g., you may not use them if your presentation is via live coding).
 - If the pre-recorded presentations will use slides, we request that you deposit the slides in this folder. -->
 
-Details
+**Details** <br />
 Using IBM Watson Studio and Watson Machine Learning, this code pattern provides an example of data science workflow which attempts to predict the end-of-day value of S&P 500 stocks based on historical data. This pattern includes the data mining process that uses the Quandl API – a marketplace for financial, economic, and alternative data delivered in modern formats for today’s analysts.
 
 🎓 Learning outcomes
@@ -29,6 +29,8 @@ Using IBM Watson Studio and Watson Machine Learning, this code pattern provides 
 - Interact with IBM Cloud Object Storage to store and access mined and modeled data.
 - Store a model created with Modeler Flow and interact with the Watson Machine Learning service using the Python API.
 - Generate graphical visualizations of time series data using Pandas and Bokeh.
+
++++ {"slideshow": {"slide_type": "subslide"}}
 
 🎙Speakers
 - Mridul Bhandari, IBM Developer Advocate, https://developer.ibm.com/profiles/mridul.bhandari/
