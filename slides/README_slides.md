@@ -143,7 +143,8 @@ Using IBM Watson Studio and Watson Machine Learning, this code pattern provides 
 - List your slide files in a markdown, with a brief description.
 
 
-+++ {"slideshow": {"slide_type": "slide"}} -->
++++ {"slideshow": {"slide_type": "slide"}} 
+-->
 ## License
 
 **Recommend** that slides be shared under a [CC-BY](https://creativecommons.org/licenses/by/4.0/) license.
