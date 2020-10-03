@@ -19,6 +19,30 @@ jupyter:
 - Slides are optional (e.g., you may not use them if your presentation is via live coding).
 - If the pre-recorded presentations will use slides, we request that you deposit the slides in this folder. -->
 
+Details
+Using IBM Watson Studio and Watson Machine Learning, this code pattern provides an example of data science workflow which attempts to predict the end-of-day value of S&P 500 stocks based on historical data. This pattern includes the data mining process that uses the Quandl API – a marketplace for financial, economic, and alternative data delivered in modern formats for today’s analysts.
+
+🎓 Learning outcomes
+- Use Jupyter Notebooks in Watson Studio to mine financial data using public APIs.
+- Use specialized Watson Studio tools like Data Refinery to prepare data for model training.
+- Build, train, and save a time series model from extracted data, using open-source Python libraries or the built-in graphical -Modeler Flow in Watson Studio.
+- Interact with IBM Cloud Object Storage to store and access mined and modeled data.
+- Store a model created with Modeler Flow and interact with the Watson Machine Learning service using the Python API.
+- Generate graphical visualizations of time series data using Pandas and Bokeh.
+
+🎙Speakers
+- Mridul Bhandari, IBM Developer Advocate, https://developer.ibm.com/profiles/mridul.bhandari/
+- Anchal Bhalla, Data and AI Technical Specialist, https://developer.ibm.com/profiles/anchal.bhalla/
+
+🎈Prerequisites
+- IBM Cloud Sign-up link - http://ibm.biz/StockMarketWatsonStudio
+- Register for the live event or watch the recording: https://www.crowdcast.io/e/forecast-stock-market
+
+👩‍💻Resources
+- Hands-on - https://ibm.biz/StockMarketWatsonStudioLab
+- GitHub Repository - https://github.com/IBM/watson-stock-market-predictor
+
+
 +++ {"slideshow": {"slide_type": "slide"}}
 
 ![center](https://github.com/mridulrb/watson-stock-market-predictor/blob/master/images/slide_images/Slide1.png?raw=true)
