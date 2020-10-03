@@ -123,7 +123,8 @@ Using IBM Watson Studio and Watson Machine Learning, this code pattern provides 
 
 ![center](https://github.com/mridulrb/watson-stock-market-predictor/blob/master/images/slide_images/Slide19.png?raw=true)
 
-<!-- ## Use text-based source
+<!-- 
+## Use text-based source
 
 - We ask that you use text-based formats for your slides, e.g., markdown 
 - This markdown file is an example source for slides using `nbconvert` and Reveal. See the GitHub action '.github/workflows/slides.yml' in this repo so see how this markdown file is converted to a HTML slide show and published on GitHub Pages - https://fawazsiddiqi.github.io/slides_to_pages
