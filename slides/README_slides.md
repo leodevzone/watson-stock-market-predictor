@@ -41,6 +41,8 @@ Using IBM Watson Studio and Watson Machine Learning, this code pattern provides 
 👩‍💻Resources
 - Hands-on - https://ibm.biz/StockMarketWatsonStudioLab
 - GitHub Repository - https://github.com/IBM/watson-stock-market-predictor
+- Survey - https://www.surveymonkey.com/r/JHT3L8Y
+- Meetup page: https://www.meetup.com/IBM-Cloud-MEA/events/ 
 
 
 +++ {"slideshow": {"slide_type": "slide"}}
